@@ -14,7 +14,7 @@ I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭. Con
         <img src="https://img.shields.io/badge/-emirhakn-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=white" /></a>
 </p>
 
-- For front-end:
+- For Frontend:
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Redux](https://img.shields.io/badge/-ReduxToolkit-black?style=flat-square&logo=redux&logoColor=purple)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -22,7 +22,7 @@ I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭. Con
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
   ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-- For back-end:
+- For Backend:
   ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 - Tools & IDE: 
