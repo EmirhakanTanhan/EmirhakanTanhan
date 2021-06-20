@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭. Connect with me here -
+I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭. You can checkout -
 <p id="socialIcons">
     <a href="https://emirhakan.com" alt="website">
-        <img src="https://img.shields.io/badge/-emirhakan.com-242424?style=flat-square&logo=circle&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-emirhakan.com-242424?style=flat-square&logo=Webflow&logoColor=242424&labelColor=white" /></a>
     <a href="mailto:me@emirhakan.com" alt="email">
         <img alt="Email" src="https://img.shields.io/badge/-me@emirhakan.com-blue?style=flat-square&logo=gmail&logoColor=blue&labelColor=white" /></a>
     <a href="https://dev.to/emirhakantanhan" alt="Devto">
