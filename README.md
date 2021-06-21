@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 👋, I'm Emirhakan Tanhan.
 
-I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭. You can checkout -
+I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭.
 <p id="socialIcons">
     <a href="https://emirhakan.com" alt="website">
         <img src="https://img.shields.io/badge/-emirhakan.com-242424?style=flat-square&logo=Webflow&logoColor=242424&labelColor=white" /></a>
@@ -14,7 +14,7 @@ I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭. You
         <img src="https://img.shields.io/badge/-emirhakn-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=white" /></a>
 </p>
 
-- For Frontend:
+- Frontend:
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Redux](https://img.shields.io/badge/-ReduxToolkit-black?style=flat-square&logo=redux&logoColor=purple)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -22,7 +22,7 @@ I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭. You
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
   ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-- For Backend:
+- Backend:
   ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 - Tools & IDE: 
@@ -34,7 +34,6 @@ I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭. You
 - Learning or want to learn:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-- Fun fact: I'm a huge fan of Iron Man, Doctor Strange and Loki
 ---
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=EmirhakanTanhan&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhakanTanhan&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
