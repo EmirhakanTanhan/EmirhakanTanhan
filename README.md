@@ -31,7 +31,7 @@ I love to talk on technology ⚡, and I have huge attraction on Spacex 🔭.
  ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=WebStorm)
  ![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=flat-square&logo=PhpStorm)
  ![MySQLWorkbench](https://img.shields.io/badge/-MySQLWorkbench-black?style=flat-square&logo=MySQL)
-- Learning or want to learn:
+- Learning:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ---
